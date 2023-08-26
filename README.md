@@ -30,7 +30,6 @@
   <a href="https://github.com/search?q=user%3AEvanchii+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AEvanchii+is%3Arepo+language%3Apflutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2362caf9.svg?logo=flutter&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AEvanchii+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEvanchii+is%3Arepo+language%3Alaravel"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
